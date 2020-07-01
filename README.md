@@ -11,4 +11,4 @@ Detects a if there is a line in a 3x3 image. Custom created dataset used.
 Convolutional Neural Network that detects different types of clothing. Uses the MNIST dataset.
 
 #### 0-9NumDetection
-Detects handwritten numbers from 0 to 9. Machine Learning Exam's project. Uses the MNIST dataset.
+Detects handwritten numbers from 0 to 9. Uses the MNIST dataset.
