@@ -19,7 +19,7 @@ def plot_image(i, predictions_array, true_label, img):
 
   predicted_label = np.max(predictions_array)
   if predicted_label == true_label:
-    color = 'blue'
+    color = 'green'
   else:
     color = 'red'
 
